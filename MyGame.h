@@ -2,8 +2,8 @@
 
 #include <QtWidgets/QMainWindow>
 #include <QStackedwidget>
-#include <MenuScreen.h>
 #include <QHBoxLayout>
+#include <MenuScreen.h>
 #include <ClassicGameScreen.h>
 #include <QTimer>
 #include <QDebug>
