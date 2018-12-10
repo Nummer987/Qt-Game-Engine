@@ -12,13 +12,13 @@
 #define GAME_ASPECT_RATIO 9/16
 #define GAME_DELTA_TIME 16
 
-class SnakeVsBlock : public QMainWindow
+class MyGame : public QMainWindow
 {
 	Q_OBJECT
 
 public:
 	//constructor
-	SnakeVsBlock(QWidget *parent = Q_NULLPTR);
+	MyGame(QWidget *parent = Q_NULLPTR);
 
 private:
 	//vars
